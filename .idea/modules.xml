@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/acces-control.iml" filepath="$PROJECT_DIR$/.idea/acces-control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../access-control/.idea/acces-control.iml" filepath="$PROJECT_DIR$/../access-control/.idea/acces-control.iml" />
     </modules>
   </component>
 </project>
